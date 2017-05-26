@@ -15,7 +15,7 @@ Installation
 
 2. Add the file "VAMP_vehDegrade.sqf" to your mission.pbo.
 
-3. (Optionally) Configure the HitPoints inside of "VAMP_vehDegrade.sqf".
+3. (Optionally) Configure the inside of "VAMP_vehDegrade.sqf".
 
 --------------------------
 Current Developers
